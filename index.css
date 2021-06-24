@@ -1,0 +1,117 @@
+﻿body{
+	background-color:beige;
+	background-position:right;
+	color:black;
+	margin:auto;
+	width:1024;
+	height:768;
+}
+
+h1{
+	text-align:center;
+	font-family:freemono, monospace;
+	font-size:75;
+	font-weight:500px;
+	font-style:rockwell;
+	padding:0;
+	margin-bottom:0;
+}
+
+h2
+{
+	text-align:center;
+	padding:10px;
+	font-size:40;
+	margin:auto;
+	margin-left:0;
+	padding-left:0;
+}
+h3
+{
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+}
+
+p
+{
+	padding-top:20px;
+	text-align:center;
+}
+
+a{
+	text-align:center;
+}
+
+.navig 
+{
+	padding:0;
+	color:black;
+}
+.space
+{
+	padding:20px;
+	font-size:22px;
+}
+
+.space a
+{
+	color:black;
+}
+
+.tablein
+{
+	padding-left:30;
+}
+.table
+{
+	padding-left:10;
+}
+
+.center
+{
+ 	width:800px;
+	height:500px;
+	margin:auto;
+	top:75px;
+	left:150px;
+	position:relative;
+}
+.login
+{
+	background-color:aliceblue;
+ 	width:500px;
+	height:300px;
+	margin:auto;
+	top:75px;
+	left:0px;
+	position:relative;
+}
+.logcen
+{
+	padding-left:90px;
+}
+
+.logcenbut{
+	padding-left:210px;
+	padding-top:30px;
+}
+
+.logcenpad{
+	padding:10px;
+	padding-left:100px;
+}
+
+.logincre{
+	width:800px;
+	height:800px;
+	padding-left:300px;
+}
+.loginsuc{
+	padding-left:425px;
+}
+
+.createcen{
+	padding-top:30px;
+	padding-left:125px;
+}
